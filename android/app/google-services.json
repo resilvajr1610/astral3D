@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "587294455370",
+    "project_id": "astral-69e69",
+    "storage_bucket": "astral-69e69.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:587294455370:android:0db8bc9c19af78b08958b3",
+        "android_client_info": {
+          "package_name": "com.astrall.astrall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "587294455370-etigfir0flsae8bjkof2rt9oiupo1o6u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2oeAMuoXV8io9im_b-YYWimdYCuqrQlI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "587294455370-etigfir0flsae8bjkof2rt9oiupo1o6u.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "587294455370-7s2ffjrrd5kmfe6ua5pf00tl0rdf2kk2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.astral"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

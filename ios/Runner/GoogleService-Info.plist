@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>587294455370-8og42fkhtnih53rlajdml3fllluu98et.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.587294455370-8og42fkhtnih53rlajdml3fllluu98et</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>587294455370-0qofk2kkk7ovuibet2atf9at45gc23fd.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBHHYq-Jwk3qsiu39hTw3L81uckgiHx-ZM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>587294455370</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.astrall.astrall</string>
+	<key>PROJECT_ID</key>
+	<string>astral-69e69</string>
+	<key>STORAGE_BUCKET</key>
+	<string>astral-69e69.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:587294455370:ios:9327ec4d39b87c4e8958b3</string>
+</dict>
+</plist>
